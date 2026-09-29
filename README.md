@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" />
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" />
   <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black" />
   <img src="https://img.shields.io/badge/TeamCity-000000?style=flat-square&logo=teamcity&logoColor=white" />
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square" />
   <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square" />

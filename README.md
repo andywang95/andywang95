@@ -5,15 +5,15 @@
 ### 🛠️ What I do
 - **Architect** enterprise platforms: system design, architecture patterns, integrations and portals
 - **Lead** global, multicultural teams: onshore and offshore, across time zones, mentoring developers at every level
-- **Build** on AWS: serverless, event-driven, infrastructure as code, CI/CD
+- **Build** cloud-native systems: serverless, event-driven, containers, infrastructure as code, CI/CD
 - **Observe** everything: Datadog, Splunk, OpenTelemetry, synthetic monitoring
 - **Specialize** in insurance platforms: Guidewire Cloud, PolicyCenter, BillingCenter, Gosu
 
 ### 🤖 AI & automation
 - Lead AI adoption in engineering: AI-assisted workflows with real guardrails
 - Ship with parallel AI agents (Claude Code, Codex, Cursor), PR review and CI gates
-- Built custom synthetic monitoring: automated end-to-end checks that catch platform failures before users do
-- Designed self-healing SRE monitoring and alerting for enterprise insurance platforms: detect, diagnose, auto-remediate
+- Built a synthetic monitoring platform for Guidewire public APIs: continuous end-to-end checks that catch failures before users do
+- Built a self-healing automation platform: SRE monitoring and alerting that detects, diagnoses and auto-remediates issues
 - Automate the toil: test frameworks, release pipelines, deployment checks
 
 <p align="center">

@@ -1,9 +1,10 @@
 <img width="100%" src="assets/header.svg" alt="Hi, I'm Andy" />
 
-<p align="center"><i>Lead software engineer · 8+ years building enterprise platforms · cloud, observability & AI-assisted engineering</i></p>
+<p align="center"><i>Lead software engineer and architect · 8+ years building enterprise platforms · cloud, observability & AI-assisted engineering</i></p>
 
 ### 🛠️ What I do
-- **Lead** multi-team engineering programs (50+ devs): architecture, guardrails, delivery
+- **Architect** enterprise platforms: system design, architecture patterns, integrations and portals
+- **Lead** multi-team engineering programs (50+ devs): guardrails, standards, delivery
 - **Build** on AWS: serverless, event-driven, infrastructure as code, CI/CD
 - **Observe** everything: Datadog, Splunk, OpenTelemetry, synthetic monitoring
 - **Specialize** in insurance platforms: Guidewire Cloud, PolicyCenter, BillingCenter, Gosu

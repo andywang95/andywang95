@@ -15,7 +15,6 @@
 - **Technical leadership:** system design, architecture patterns and engineering guardrails across multi-team codebases; product ownership for multi-year programs
 - **Observability:** synthetic monitoring across cloud platforms; Datadog, Splunk and Sumo Logic; OpenTelemetry collectors and metrics pipelines for fleets of edge devices
 - **Cloud and DevOps:** serverless and event-driven systems on AWS, infrastructure as code, Jenkins and TeamCity CI/CD, release management
-- **Growing engineers:** built certification and mentorship programs (90% pass rate); hackathon judge and award-winning hackathon competitor
 
 ### 💻 Languages & tools
 <p align="center">
@@ -45,8 +44,5 @@
 
 ### 🗣️ Spoken languages
 English (native) · Mandarin Chinese (fluent) · Spanish (basic)
-
-### 🌱 Outside of work
-Habitat for Humanity · Special Olympics · volunteer tennis coach
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1e3a8a&height=100&section=footer" />

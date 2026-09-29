@@ -39,7 +39,8 @@
 Guidewire PolicyCenter Configuration (PC 8 to 10, Aspen to Kufri) · AWS AI Practitioner · AWS Cloud Practitioner · CSPO · CSM · CPCU 500 & 520
 
 ### 🎓 Education & languages
-M.S. Computer Science (in progress) · B.S. Business Administration, IT Management<br/>
+🎓 **University of Pennsylvania:** Master's, Computer Science (in progress)<br/>
+🎓 **Georgia Tech:** B.S. Business Administration, IT Management (magna cum laude)<br/>
 English · Mandarin · Spanish (basic)
 
 <img width="100%" src="assets/footer.svg" alt="" />

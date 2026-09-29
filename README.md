@@ -20,8 +20,7 @@
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/MCP-111827?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
-</p>
-<p align="center">
+  <br/>
   <img src="https://img.shields.io/badge/Amazon_Bedrock-01A88D?style=flat-square" />
   <img src="https://img.shields.io/badge/Amazon_Q_Developer-232F3E?style=flat-square" />
   <img src="https://img.shields.io/badge/Microsoft_365_Copilot-0078D4?style=flat-square" />

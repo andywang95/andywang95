@@ -1,13 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:7c3aed&height=160&section=header&text=Hi,%20I'm%20Andy%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Guidewire%20Cloud%20%C2%B7%20Cloud%20architecture%20%C2%B7%20Observability&descAlignY=62&descSize=16" />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=andywang95&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:7c3aed&height=160&section=header&text=Hi,%20I'm%20Andy%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Guidewire%20Cloud%20%C2%B7%20AI%20%26%20automation%20%C2%B7%20Observability&descAlignY=62&descSize=16" />
 
 <p align="center">
   <i>Lead software engineer and Guidewire Cloud specialist with 8+ years building enterprise insurance platforms,
   from PolicyCenter configuration to cloud migrations, CI/CD and technical leadership of 50+ developer programs.
-  On the side I build OpenTelemetry-based observability for satellite-connected edge devices.</i>
+  I lead AI adoption in engineering and ship with a team of AI coding agents, and on the side I build
+  OpenTelemetry-based observability for satellite-connected edge devices.</i>
 </p>
 
 ### 🛠️ What I work on
@@ -15,6 +12,18 @@
 - **Technical leadership:** system design, architecture patterns and engineering guardrails across multi-team codebases; product ownership for multi-year programs
 - **Observability:** synthetic monitoring across cloud platforms; Datadog, Splunk and Sumo Logic; OpenTelemetry collectors and metrics pipelines for fleets of edge devices
 - **Cloud and DevOps:** serverless and event-driven systems on AWS, infrastructure as code, Jenkins and TeamCity CI/CD, release management
+
+### 🤖 AI & automation
+- **AI in engineering:** leading AI initiatives for large development programs: AI-assisted workflows, standards and guardrails that keep generated code reviewable, secure and tested
+- **Multi-agent development:** running Claude Code, Codex and Cursor as parallel agents on a shared backlog, with ticket claims, pull-request review, CI gates and human merge approval
+- **Automation:** synthetic monitoring, CI/CD pipelines and automated test frameworks (Playwright, Guidewire Test Framework, JUnit/Mockito) that remove manual release and QA toil
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-111827?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
+</p>
 
 ### 💻 Languages & tools
 <p align="center">

@@ -11,6 +11,7 @@
 </p>
 
 ### 🛠️ What I work on
+- **Insurance platforms:** Guidewire InsuranceSuite architecture for large-scale insurance systems
 - **Cloud architecture:** serverless and event-driven systems on AWS, infrastructure as code with CDK
 - **Observability:** OpenTelemetry collectors, metrics pipelines, dashboards and alerting for fleets of edge devices
 - **Edge telemetry:** gRPC device integrations, offline-tolerant collection, and secure device registration
@@ -26,10 +27,11 @@
   <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS_CDK-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Guidewire-00739D?style=flat-square" />
 </p>
 
 ### 📜 Certifications
-AWS Certified AI Practitioner · AWS Certified Cloud Practitioner · Certified ScrumMaster · Certified Scrum Product Owner
+Guidewire Certified Specialist · AWS Certified AI Practitioner · AWS Certified Cloud Practitioner · Certified ScrumMaster · Certified Scrum Product Owner
 
 ### 🎓 Education
 Master's in Computer Science (in progress)

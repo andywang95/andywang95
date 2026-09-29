@@ -24,13 +24,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Amazon_Bedrock-01A88D?style=flat-square" />
   <img src="https://img.shields.io/badge/Amazon_Q_Developer-232F3E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_365_Copilot-0078D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/ChatGPT_Enterprise-10A37F?style=flat-square" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
 </p>
 
 ### 💻 Languages & tools

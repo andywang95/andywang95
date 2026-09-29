@@ -1,42 +1,52 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:7c3aed&height=160&section=header&text=Hi,%20I'm%20Andy%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cloud%20architecture%20%C2%B7%20Observability%20%C2%B7%20Edge%20telemetry&descAlignY=62&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:7c3aed&height=160&section=header&text=Hi,%20I'm%20Andy%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Guidewire%20Cloud%20%C2%B7%20Cloud%20architecture%20%C2%B7%20Observability&descAlignY=62&descSize=16" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=andywang95&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 </p>
 
 <p align="center">
-  <i>Technology architect and technical product leader with 8+ years designing large-scale enterprise platforms.
-  These days I'm deep in observability: building OpenTelemetry-based telemetry pipelines for
-  satellite-connected edge devices, and the cloud services around them.</i>
+  <i>Lead software engineer and Guidewire Cloud specialist with 8+ years building enterprise insurance platforms,
+  from PolicyCenter configuration to cloud migrations, CI/CD and technical leadership of 50+ developer programs.
+  On the side I build OpenTelemetry-based observability for satellite-connected edge devices.</i>
 </p>
 
 ### 🛠️ What I work on
-- **Insurance platforms:** Guidewire InsuranceSuite architecture for large-scale insurance systems
-- **Cloud architecture:** serverless and event-driven systems on AWS, infrastructure as code with CDK
-- **Observability:** OpenTelemetry collectors, metrics pipelines, dashboards and alerting for fleets of edge devices
-- **Edge telemetry:** gRPC device integrations, offline-tolerant collection, and secure device registration
-- **Product and delivery:** turning ambiguous problems into shippable roadmaps; agile product ownership
+- **Insurance platforms:** Guidewire InsuranceSuite: PolicyCenter, BillingCenter, ContactManager, portals (Jutro, ProducerEngage) and Gosu, including Guidewire Cloud migrations and upgrades
+- **Technical leadership:** system design, architecture patterns and engineering guardrails across multi-team codebases; product ownership for multi-year programs
+- **Observability:** synthetic monitoring across cloud platforms; Datadog, Splunk and Sumo Logic; OpenTelemetry collectors and metrics pipelines for fleets of edge devices
+- **Cloud and DevOps:** serverless and event-driven systems on AWS, infrastructure as code, Jenkins and TeamCity CI/CD, release management
+- **Growing engineers:** built certification and mentorship programs (90% pass rate); hackathon judge and award-winning hackathon competitor
 
 ### 💻 Languages & tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,ts,python,js,react,nextjs,nodejs,postgres,aws,docker,linux,git,githubactions,grafana&perline=7" />
+  <img src="https://skillicons.dev/icons?i=go,java,kotlin,ts,js,py,react,angular,nextjs,nodejs,express,spring,postgres,mongodb,aws,azure,docker,kubernetes,terraform,jenkins,linux,git,githubactions&perline=8" />
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/Gosu-00739D?style=flat-square" />
+  <img src="https://img.shields.io/badge/Guidewire-00739D?style=flat-square" />
   <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" />
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Camel-D4AA00?style=flat-square&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_CDK-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Guidewire-00739D?style=flat-square" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
 </p>
 
 ### 📜 Certifications
-Guidewire Certified Specialist · AWS Certified AI Practitioner · AWS Certified Cloud Practitioner · Certified ScrumMaster · Certified Scrum Product Owner
+- **Guidewire Certified Specialist, PolicyCenter Configuration:** PolicyCenter 8, 9, 10 · Aspen through Kufri cloud releases
+- AWS Certified AI Practitioner · AWS Certified Cloud Practitioner
+- Certified Scrum Product Owner (CSPO) · Certified ScrumMaster (CSM)
+- CPCU 500 (Managing Evolving Risk) · CPCU 520 (Connecting the Business of Insurance Operations)
 
 ### 🎓 Education
-Master's in Computer Science (in progress)
+- Master's in Computer Science (in progress)
+- B.S. Business Administration, Information Technology Management (magna cum laude)
 
 ### 🗣️ Spoken languages
-English · Chinese
+English (native) · Mandarin Chinese (fluent) · Spanish (basic)
+
+### 🌱 Outside of work
+Habitat for Humanity · Special Olympics · volunteer tennis coach
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1e3a8a&height=100&section=footer" />

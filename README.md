@@ -1,4 +1,4 @@
-<img width="100%" src="assets/header.svg" alt="Hi, I'm Andy" />
+<img width="100%" src="https://raw.githubusercontent.com/andywang95/andywang95/main/assets/header.svg" alt="Hi, I'm Andy" />
 
 <p align="center"><i>Lead software engineer and architect · 8+ years building enterprise platforms · cloud, observability & AI-assisted engineering</i></p>
 
@@ -31,6 +31,11 @@
   <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" />
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" />
   <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TeamCity-000000?style=flat-square&logo=teamcity&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Camel-D4AA00?style=flat-square&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
@@ -44,4 +49,4 @@ Guidewire PolicyCenter Configuration (PC 8 to 10, Aspen to Kufri) · AWS AI Prac
 🎓 **Georgia Tech:** B.S. Business Administration, IT Management (magna cum laude)<br/>
 English · Mandarin · Spanish (basic)
 
-<img width="100%" src="assets/footer.svg" alt="" />
+<img width="100%" src="https://raw.githubusercontent.com/andywang95/andywang95/main/assets/footer.svg" alt="" />

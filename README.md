@@ -1,21 +1,17 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:7c3aed&height=160&section=header&text=Hi,%20I'm%20Andy%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Lead%20software%20engineer%20%C2%B7%20Cloud%20%26%20platform%20engineering%20%C2%B7%20AI%20%26%20automation&descAlignY=62&descSize=16" />
+<img width="100%" src="assets/header.svg" alt="Hi, I'm Andy" />
 
-<p align="center">
-  <i>Lead software engineer with 8+ years building and leading enterprise platforms: cloud architecture, CI/CD,
-  observability and AI-assisted engineering, for programs of 50+ developers. My deepest specialty is insurance
-  platforms on Guidewire Cloud, and I also build OpenTelemetry-based observability for connected edge devices.</i>
-</p>
+<p align="center"><i>Lead software engineer · 8+ years building enterprise platforms · cloud, observability & AI-assisted engineering</i></p>
 
-### 🛠️ What I work on
-- **Technical leadership:** system design, architecture patterns and engineering guardrails across multi-team codebases; product ownership for multi-year programs
-- **Cloud and DevOps:** serverless and event-driven systems on AWS, infrastructure as code, Jenkins and TeamCity CI/CD, release management
-- **Observability:** synthetic monitoring across cloud platforms; Datadog, Splunk and Sumo Logic; OpenTelemetry collectors and metrics pipelines for fleets of edge devices
-- **Insurance platforms (specialty):** Guidewire InsuranceSuite: PolicyCenter, BillingCenter, ContactManager, portals (Jutro, ProducerEngage) and Gosu, including Guidewire Cloud migrations and upgrades
+### 🛠️ What I do
+- **Lead** multi-team engineering programs (50+ devs): architecture, guardrails, delivery
+- **Build** on AWS: serverless, event-driven, infrastructure as code, CI/CD
+- **Observe** everything: Datadog, Splunk, OpenTelemetry, synthetic monitoring
+- **Specialize** in insurance platforms: Guidewire Cloud, PolicyCenter, BillingCenter, Gosu
 
 ### 🤖 AI & automation
-- **AI in engineering:** leading AI initiatives for large development programs: AI-assisted workflows, standards and guardrails that keep generated code reviewable, secure and tested
-- **Multi-agent development:** running Claude Code, Codex and Cursor as parallel agents on a shared backlog, with ticket claims, pull-request review, CI gates and human merge approval
-- **Automation:** synthetic monitoring, CI/CD pipelines and automated test frameworks (Playwright, Guidewire Test Framework, JUnit/Mockito) that remove manual release and QA toil
+- Lead AI adoption in engineering: AI-assisted workflows with real guardrails
+- Ship with parallel AI agents (Claude Code, Codex, Cursor), PR review and CI gates
+- Automate the toil: test frameworks, release pipelines, monitoring
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" />
@@ -41,16 +37,10 @@
 </p>
 
 ### 📜 Certifications
-- **Guidewire Certified Specialist, PolicyCenter Configuration:** PolicyCenter 8, 9, 10 · Aspen through Kufri cloud releases
-- AWS Certified AI Practitioner · AWS Certified Cloud Practitioner
-- Certified Scrum Product Owner (CSPO) · Certified ScrumMaster (CSM)
-- CPCU 500 (Managing Evolving Risk) · CPCU 520 (Connecting the Business of Insurance Operations)
+Guidewire PolicyCenter Configuration (PC 8 to 10, Aspen to Kufri) · AWS AI Practitioner · AWS Cloud Practitioner · CSPO · CSM · CPCU 500 & 520
 
-### 🎓 Education
-- Master's in Computer Science (in progress)
-- B.S. Business Administration, Information Technology Management (magna cum laude)
+### 🎓 Education & languages
+M.S. Computer Science (in progress) · B.S. Business Administration, IT Management<br/>
+English · Mandarin · Spanish (basic)
 
-### 🗣️ Spoken languages
-English (native) · Mandarin Chinese (fluent) · Spanish (basic)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1e3a8a&height=100&section=footer" />
+<img width="100%" src="assets/footer.svg" alt="" />

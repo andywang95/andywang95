@@ -4,7 +4,7 @@
 
 ### 🛠️ What I do
 - **Architect** enterprise platforms: system design, architecture patterns, integrations and portals
-- **Lead** multi-team engineering programs (50+ devs): guardrails, standards, delivery
+- **Lead** global, multicultural teams: onshore and offshore, across time zones, mentoring developers at every level
 - **Build** on AWS: serverless, event-driven, infrastructure as code, CI/CD
 - **Observe** everything: Datadog, Splunk, OpenTelemetry, synthetic monitoring
 - **Specialize** in insurance platforms: Guidewire Cloud, PolicyCenter, BillingCenter, Gosu

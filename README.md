@@ -14,7 +14,7 @@
 - Ship with parallel AI agents (Claude Code, Codex, Cursor), PR review and CI gates
 - **Design and run** synthetic monitoring for Guidewire Cloud public APIs, catching broken endpoints and regressions before anyone else does
 - **Build** self-healing SRE platforms: known failures remediate themselves, and everything else reaches on-call already diagnosed
-- Automate the toil: test frameworks, release pipelines, deployment checks
+- **Automate** the toil: CI/CD and release pipelines, test automation and coverage gates, code promotion, environment provisioning, and deployment checks
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" />

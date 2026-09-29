@@ -12,8 +12,8 @@
 ### 🤖 AI & automation
 - Lead AI adoption in engineering: AI-assisted workflows with real guardrails
 - Ship with parallel AI agents (Claude Code, Codex, Cursor), PR review and CI gates
-- Built a synthetic monitoring platform for Guidewire public APIs: continuous end-to-end checks that catch failures before users do
-- Built a self-healing automation platform: SRE monitoring and alerting that detects, diagnoses and auto-remediates issues
+- **Architected** a synthetic monitoring platform for Guidewire Cloud public APIs: proactive health signals across environments for 400+ engineers
+- **Architected** a self-healing SRE platform: automated detection, triage and remediation that closes the loop from alert to recovery
 - Automate the toil: test frameworks, release pipelines, deployment checks
 
 <p align="center">
